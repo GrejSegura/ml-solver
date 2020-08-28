@@ -9,6 +9,7 @@ Disclaimer: This is the process that I follow when doing machine learning from p
     - if big data then extract only enough sample
 2. EDA
 3. Data Preprocess
+    - Imputation
     - One Hot Encoding, Label Encoding, etc
     - Split train/test data
     - Scaling, Standardization, Normalization
