@@ -9,7 +9,7 @@ Disclaimer: This is the process that I follow when doing machine learning from p
     - if big data then extract only enough sample
 2. EDA
 3. Visualization
-4. Statistical Analysis
+4. Optional: Statistical Analysis
     - Test for Dependence/Independence, Regression Analysis, etc.
 5. Data Preprocess
     - One Hot Encoding, Label Encoding, etc
