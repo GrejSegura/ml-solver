@@ -1,10 +1,11 @@
 # Work in Progress
 ## Machine Learning Process for Classification / Regression
 
-Disclaimer: This is the process that I follow when doing machine learning from problem framing to production. It is based on my experience and research through out the years.
+Disclaimer: This is the process that I follow when doing machine learning from problem framing to production. It is based on my experience and research through out the years. This may vary between structured and unstructured data but the overall structure remains.
 
 ### Part 1 - Data Preparation and Visualization
 1. Collect raw data
+    - Merge, join, union tables.
     - if big data then extract only enough sample
 2. EDA
 3. Visualization
