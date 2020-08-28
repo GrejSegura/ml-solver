@@ -8,12 +8,13 @@ Disclaimer: This is the process that I follow when doing machine learning from p
     - Merge, join, union tables.
     - if big data then extract only enough sample
 2. EDA
-3. Visualization
-4. Optional: Statistical Analysis
-    - Test for Dependence/Independence, Regression Analysis, etc.
-5. Data Preprocess
+3. Data Preprocess
     - One Hot Encoding, Label Encoding, etc
+    - Split train/test data
     - Scaling, Standardization, Normalization
+4. Visualization
+5. Optional: Statistical Analysis
+    - Test for Dependence/Independence, Regression Analysis, etc.
 
 ### Part 2 - Machine Learning Modeling (Do everything in CV)
 1. Base Model - Multiple Models
