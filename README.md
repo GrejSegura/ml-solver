@@ -1,6 +1,7 @@
+# Work in Progress
 ## Machine Learning Process for Classification / Regression
 
-### Author: Grejell Segura
+Disclaimer: This is the process that I follow when doing machine learning from problem framing to production. It is based on my experience and research through out the years.
 
 ### Part 1 - Data Preparation and Visualization
 1. Collect raw data
