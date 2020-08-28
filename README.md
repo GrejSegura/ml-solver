@@ -35,6 +35,6 @@ Disclaimer: This is the process that I follow when doing machine learning from p
 3. Deploy using Docker
 4. Optional: Create Prototype using Streamlit
 
-### Part 4 - Create Monitoring / Retraining Pipeline
+### Part 4 - Monitor / Retrain
 1. Create Model Score Monitoring
 2. Repeat Part 2 if model performance starts declining
