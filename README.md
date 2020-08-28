@@ -30,6 +30,7 @@
 1. Create Data Pipeline
 2. Create API using Flask/FastAPI
 3. Deploy using Docker
+4. Optional: Create Prototype using Streamlit
 
 ### Part 4 - Create Monitoring / Retraining Pipeline
 1. Create Model Score Monitoring
