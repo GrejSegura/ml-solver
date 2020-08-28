@@ -26,7 +26,7 @@
 4. Model Selection / Performance Comparison
 5. Train final model on full dataset (big data)
 
-### Part 3 - Create API / Prototype Application
+### Part 3 - For Production: Create API / Prototype Application
 1. Create Data Pipeline
 2. Create API using Flask/FastAPI
 3. Deploy using Docker
