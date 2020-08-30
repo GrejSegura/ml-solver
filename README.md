@@ -1,5 +1,5 @@
 # Work in Progress
-## Machine Learning Process for Classification / Regression
+## Machine Learning Classification / Regression Process for Production
 
 Disclaimer: This is the process that I follow when doing machine learning from problem framing to production. It is based on my experience and research through out the years. This may vary between structured and unstructured data but the overall structure remains.
 
