@@ -19,8 +19,8 @@ Disclaimer: This is the process that I follow when doing machine learning from p
 
 ### Part 2 - Machine Learning Modeling (Do everything in CV)
 1. Base Model - Multiple Models
-    - LogisticReg, NB, RF, ADA, LGB, XGB, LDA for classification
-    - LinearReg, RF, ADA, LGB, XGB for regression
+    - LogisticReg, DT, NB, RF, ADA, LGB, XGB, LDA for classification
+    - LinearReg, DT, RF, ADA, LGB, XGB, LDA for regression
 2. Fine Tuning Top Models
 3. Improvements
     - Feature Engineering
