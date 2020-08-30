@@ -32,7 +32,7 @@ Disclaimer: This is the process that I follow when doing machine learning from p
 
 ### Part 3 - For Production: Create API / Prototype Application
 1. Create Data Pipeline
-2. Create API using Flask/FastAPI or deploy to any cloud framework
+2. Create API using Flask/FastAPI in on-premises setup or deploy to any cloud framework
 3. Deploy using Docker
 4. Optional: Create Prototype using Streamlit
 
