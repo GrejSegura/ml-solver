@@ -15,7 +15,7 @@ Disclaimer:
     - Split train/test data
     - Scaling, Standardization, Normalization
 4. Visualization
-5. Optional: Statistical Analysis
+5. Optional: Statistical Analysis - useful for reporting
     - Test for Dependence/Independence, Regression Analysis, etc.
 
 ### Part 2 - Machine Learning Modeling (Do everything in CV)
